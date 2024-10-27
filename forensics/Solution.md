@@ -1,5 +1,9 @@
 # Corrupted Hard Drive
 
+## Flag
+
+ISITDTU{https://www.youtube.com/watch?v=yqp61_Wqm-A}
+
 ![image](https://github.com/user-attachments/assets/47162803-d1a3-4b61-a2cd-1a715d507989)
 
 ## Analyzing part.
@@ -52,9 +56,27 @@ After open, I found that there is different in time so it might be the answer
 
 Q5. The first directory he moved this file to?
 
-At this challenge,
+At this challenge, I'm using remove method, since I knew that MustRead folder is a carved folder, so which means it might be deleted so that I only have best and secret. I try both of them and got the answer is => best
 
+Q6. Last directory the suspicious move the file to?
 
+As I said, the last directory that we can find the pdf file is in MustRead folder => MustRead is the answer
+
+Q7. The time he of the deletion??
+
+Using **$UsnJrnl** because this file can write log about creation, deletion or modification of files or directories so it might be the key. 
+
+Tool using: https://github.com/jschicht/UsnJrnl2Csv
+
+When Parse the file, we use finding shortcut
+
+![image](https://github.com/user-attachments/assets/2fd456ad-e277-4819-8a2b-0c8fe08f007f)
+
+=> Answer: 2024-10-22 22:20:28
+
+After completing 7 qts, we will have the flag
+
+![image](https://github.com/user-attachments/assets/16c5334a-7069-421a-8de0-fa3c6c1d87df)
 
 
 
