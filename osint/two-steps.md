@@ -12,7 +12,7 @@ Mình biết được rằng tên của Arlen là Arlen Fenmaris
 
 ![image](https://github.com/user-attachments/assets/400a714e-6387-4bff-8633-7e279c7f3ccb)
 
-Tới đây, có vẻ như tác giả lại mắc lỗi là để tên facebook trùng tên với Username github, điều này khiến cho challenge được đi tắt mà không cần phải tìm ra profile facebook trên github nữa.
+Tới đây, có vẻ như tác giả đã mắc lỗi là để tên facebook trùng tên với Username github, điều này khiến cho challenge được đi tắt mà không cần phải tìm ra profile facebook trên github nữa.
 
 ![image](https://github.com/user-attachments/assets/001fc80b-b066-4398-8193-b93c3627dfec)
 
