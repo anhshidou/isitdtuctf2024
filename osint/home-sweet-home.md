@@ -1,6 +1,6 @@
 # Home Sweet Home
 
-![image](https://github.com/user-attachments/assets/200be95f-32a8-447b-a990-b11adc16f25f)![image](https://github.com/user-attachments/assets/63f9df2e-7301-4f3e-b839-23a55c5c9ba8)
+![image](https://github.com/user-attachments/assets/63f9df2e-7301-4f3e-b839-23a55c5c9ba8)
 
 theo đề bài thì mình tìm ra username ở trên instagram, sau khi xem thì thấy rằng phải follow mới có thể xem được post.
 
